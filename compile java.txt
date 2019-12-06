@@ -1,0 +1,7 @@
+-- adding java path
+set PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_211\bin
+
+-- compiling java code (it will create a '.class' file)
+javac myJavaCode.java
+
+
